@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h3 class="desc">{{ page.subtitle }}</h3>
+  </header>
+
+  <hr>
+
+  <article class="post-content {{page.title}} clearfix">
+    <table class="table table-hover", style="font-size:1em">
+      <colgroup>
+        <col style="width:15%">
+        <col style="width:40%">
+        <col style="width:30%">
+        <col style="width:15%">
+      </colgroup>
+      <thead class="thead-light">
+        <tr>
+          <th scope="col"><b>Date</b></th>
+          <th scope="col"><b>Lecture</b></th>
+          <th scope="col"><b>References</b></th>
+          <th scope="col"><b>Misc</b></th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ content }}
+      </tbody>
+    </table>
+  </article>
+
+</div>
