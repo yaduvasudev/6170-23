@@ -17,9 +17,9 @@ news: true
 - yadu@cse.iitm.ac.in
 
 #### **TAs**
-Keshav and Sampriti
 
-##### **About this course**:
+
+##### **About this course**
 
 This is an introductory course on design and analysis of randomized algorithms. Randomization is ubiquitous in computer science, and this course introduces some computatational problem where randomization gives efficient and elegant solutions. We will also learn how to think about randomized algorithms and the tools required to analyze such algorithms.
 

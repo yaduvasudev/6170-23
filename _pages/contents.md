@@ -24,7 +24,8 @@ The course will look at the following content in detail. The order of the topics
 - Online algorithms - How do you design a caching mechanism that minimized page faults? Can you do as good as when you have the power of hindsight?
 - Markov chains and random walks - How long will you take to reach your destination if you choose to board a random bus at every bus stop?
 - Markov chain Monte-Carlo 
-- Advanced topics - algebraic techniques, PAC learning
+- VC dimension and PAC learning, algebraic techniques (if time permits)
+
 
 ---
 
