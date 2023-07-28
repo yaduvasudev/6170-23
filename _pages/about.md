@@ -17,7 +17,8 @@ news: true
 - yadu@cse.iitm.ac.in
 
 #### **TAs**
-
+- Keshav (CS21S040)
+- Sampriti (CS18D200)
 
 ##### **About this course**
 

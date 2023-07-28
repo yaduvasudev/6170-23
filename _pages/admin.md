@@ -14,13 +14,18 @@ We will have four 50-minute lectures per week. Some of the lectures will be conv
 
 #### **Grading policy** (tentative)
 
-To be declared.
+- Problem sets: 1 * 5 + 3 * 10 = 35%
+- Course project (in groups of 3): 5 (preliminary evaluation) + 10 (final evaluation) = 15%
+- Mid-sem: 20%
+- End-sem: 30%
 
 ---
 
 #### **Important dates** (tentative)
 
-To be declared.
+- Problem sets (deadlines are +10 days): PS1(18/8), PS2(15/9), PS3(6/10), PS4(20/10)
+- Mid-sem: 16/9 (**Saturday**)
+- End-sem: 15/11 (as per institute calendar) 
 
 ---
 
