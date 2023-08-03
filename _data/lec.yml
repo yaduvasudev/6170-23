@@ -13,6 +13,14 @@
   - Section 1.1 - Course notes
   misc: 
 
+- date: Tue 03/08
+  contents: Basic discrete probability - sample spaces, events, conditional probability; proof of the DeMillo-Lipton-Schwartz-Zippel lemma
+  slides: 
+  notes:
+  references: 
+  - Section 1.2 - Course notes
+  misc: 
+
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
