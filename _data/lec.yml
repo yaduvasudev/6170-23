@@ -5,6 +5,13 @@
   references: 
   misc: <a href="https://cs6170-23.zulipchat.com/join/fvb4pqkzerlk3bsic7mqrbbl/">discussion forum</a>
 
+- date: Tue 02/08
+  contents: Perfect matchings in bipartite graphs and polynomial identity testing; DeMillo-Lipton-Schwartz-Zippel lemma and a simple randomized algorithm
+  slides: 
+  notes:
+  references: 
+  - Section 1.1 - Course notes
+  misc: 
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
