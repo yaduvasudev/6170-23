@@ -5,7 +5,7 @@
   references: 
   misc: <a href="https://cs6170-23.zulipchat.com/join/fvb4pqkzerlk3bsic7mqrbbl/">discussion forum</a>
 
-- date: Tue 02/08
+- date: Wed 02/08
   contents: Perfect matchings in bipartite graphs and polynomial identity testing; DeMillo-Lipton-Schwartz-Zippel lemma and a simple randomized algorithm
   slides: 
   notes:
@@ -13,13 +13,21 @@
   - Section 1.1 - Course notes
   misc: 
 
-- date: Tue 03/08
+- date: Thu 03/08
   contents: Basic discrete probability - sample spaces, events, conditional probability; proof of the DeMillo-Lipton-Schwartz-Zippel lemma
   slides: 
   notes:
   references: 
   - Section 1.2 - Course notes
   - Sections 1.1, 1.2 - [MU]
+  misc: 
+  
+- date: Fri 03/08
+  contents: Verifying matrix multiplication - Frievald's algorithm; Mincut in graphs - outline of Karger's algorithm
+  slides: 
+  notes:
+  references: 
+  - Sections 1.3, 1.5 - [MU]
   misc: 
 
 # - date: Wed 04/08
