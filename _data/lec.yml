@@ -29,6 +29,16 @@
   references: 
   - Sections 1.3, 1.5 - [MU]
   misc: 
+  
+- date: Mon 07/08
+  contents: Karger's algorithm for mincut and its analysis; Maxcut in graphs - random variables and expectation
+  slides: 
+  notes:
+  references: 
+  - Section 1.5 - [MU]
+  - Sections 1.4, 2.1 - Course notes
+  misc: 
+
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
