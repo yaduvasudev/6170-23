@@ -45,9 +45,17 @@
   notes:
   references: 
   - Sections 15.1.1, 15.1.2 - [MU]
-  - Sections 2.1 - Course notes
+  - Section 2.1 - Course notes
   misc: 
 
+- date: Thu 10/08
+  contents: Method of conditional expectations - greedy algorithm for maxcut; randomized quicksort - outline
+  slides: 
+  notes:
+  references: 
+  - Section 6.3 - [MU]
+  - Section 2.1 - Course notes
+  misc: 
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
