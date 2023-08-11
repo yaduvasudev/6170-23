@@ -57,6 +57,14 @@
   - Section 2.1 - Course notes
   misc: 
 
+- date: Fri 11/08
+  contents: Analysis of quicksort; Binomial and geometric random variables and their expectation; Analyzing the coupon collector problem using geometric random variables
+  slides: 
+  notes:
+  references: 
+  - Chapter 2 - [MU]
+  - Sections 2.2, 2.3 - Course notes
+  misc: Read the corresponding sections for the proofs and additional material
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
