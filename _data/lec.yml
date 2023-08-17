@@ -84,6 +84,15 @@
   - Section 3.2 - Course notes
   misc: 
 
+- date: Thu 17/08
+  contents: Construction of pairwise independent strings from finite fields; statements of the Chernoff-Hoeffding bounds
+  slides: 
+  notes:
+  references: 
+  - Section 3.3 - [MU]
+  - Sections 3.2, 3.3 - Course notes
+  - <a href="https://en.wikipedia.org/wiki/Finite_field#Field_with_four_elements">Finite fields</a> from wiki
+  misc: 
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
