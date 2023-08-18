@@ -92,7 +92,17 @@
   - Section 3.3 - [MU]
   - Sections 3.2, 3.3 - Course notes
   - <a href="https://en.wikipedia.org/wiki/Finite_field#Field_with_four_elements">Finite fields</a> from wiki
-  misc: 
+  misc:
+  
+- date: Mon 18/08
+  contents: Chernoff-Hoeffding bounds - amplifying success probability of two-sided error algorithms; outline of the proof of the Chernoff bounds
+  slides: 
+  notes:
+  references: 
+  - Chapter 4 - [MU] contains various forms of the Chernoff bounds
+  - Sections 3.3 - Course notes
+  - Chapter 1 - <a href="http://wwwusers.di.uniroma1.it/~ale/Papers/master.pdf">Concentration of measure for the analysis of randomized algorithms</a> (Dubhashi and Panconesi)
+  misc: <a href="https://coursesnew.iitm.ac.in/mod/assign/view.php?id=23038">Problem set 1</a> released
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
