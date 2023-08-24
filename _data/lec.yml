@@ -113,6 +113,25 @@
   - Section 4.1 - Course notes
   misc:
   
+- date: Wed 23/08
+  contents: Poisson approximation of balls and bins; properties of Poisson random variables
+  slides: 
+  notes:
+  references: 
+  - Sections 5.3, 5.4 - [MU]
+  - Section 4.2 - Course notes
+  misc:
+  
+- date: Thu 24/08
+  contents: Poisson approimation of balls and bins - lower bound for maximum load; static dictionaries and Bloom filters
+  slides: 
+  notes:
+  references: 
+  - Sections 5.4, 5.5.3 - [MU]
+  - Sections 4.3, 4.4 - Course notes
+  misc:
+
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
