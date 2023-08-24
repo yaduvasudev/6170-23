@@ -123,7 +123,7 @@
   misc:
   
 - date: Thu 24/08
-  contents: Poisson approimation of balls and bins - lower bound for maximum load; static dictionaries and Bloom filters
+  contents: Poisson approximation of balls and bins - lower bound for maximum load; static dictionaries and Bloom filters
   slides: 
   notes:
   references: 
