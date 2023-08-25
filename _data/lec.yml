@@ -130,6 +130,15 @@
   - Sections 5.4, 5.5.3 - [MU]
   - Sections 4.3, 4.4 - Course notes
   misc:
+  
+- date: Fri 25/08
+  contents: Bloom filters - analysis of the false positive probability; definitions of universal and \( k\)-wise indepedent hash families
+  slides: 
+  notes:
+  references: 
+  - Section 5.5.3 - [MU]
+  - Section 4.4 - Course notes
+  misc:
 
   
 # - date: Wed 04/08
