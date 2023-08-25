@@ -132,7 +132,7 @@
   misc:
   
 - date: Fri 25/08
-  contents: Bloom filters - analysis of the false positive probability; definitions of universal and \( k\)-wise indepedent hash families
+  contents: Bloom filters - analysis of the false positive probability; definitions of \( k\)-universal and \( k\)-wise indepedent hash families
   slides: 
   notes:
   references: 
