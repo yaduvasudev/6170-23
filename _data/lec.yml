@@ -140,6 +140,14 @@
   - Section 4.4 - Course notes
   misc:
 
+- date: Mon 28/08
+  contents: Universal hash families - definition and properties; static and dynamic dictionary with 2-universal hash families; explicit constructions
+  slides: 
+  notes:
+  references: 
+  - Section 15.3 - [MU]
+  - Section 5.1 - Course notes
+  misc:
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
