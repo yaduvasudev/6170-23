@@ -148,6 +148,16 @@
   - Section 15.3 - [MU]
   - Section 5.1 - Course notes
   misc:
+
+- date: Wed 30/08
+  contents: Universal hash families - explicit constructions; Fredman-Komlos-Szemeredi (FKS) hashing; bitprobe model
+  slides: 
+  notes:
+  references: 
+  - Section 15.3 - [MU]
+  - Sections 5.1, 5.2 - Course notes
+  misc:
+
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
