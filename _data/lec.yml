@@ -158,6 +158,14 @@
   - Sections 5.1, 5.2 - Course notes
   misc:
 
+- date: Thu 31/08
+  contents: Bitprobe model - static dictionaries with single probes;
+  slides: 
+  notes:
+  references: 
+  - Section 5.3 - Course notes
+  - Buhrman et al's <a href="https://epubs.siam.org/doi/pdf/10.1137/S0097539702405292">paper</a>
+  misc:
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
