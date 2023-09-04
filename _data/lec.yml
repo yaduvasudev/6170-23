@@ -175,6 +175,14 @@
   references: 
   misc:
   
+- date: Mon 04/09
+  contents: Analysis of open addressing with linear probing
+  slides: 
+  notes:
+  references: 
+  - Section 5.4 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
