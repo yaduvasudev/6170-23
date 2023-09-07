@@ -183,6 +183,15 @@
   - Section 5.4 - Course notes
   misc:
   
+- date: Wed 06/09
+  contents: Analysis of open addressing with linear probing (contd); Cuckoo hashing - cuckoo graphs and their properties
+  slides: 
+  notes:
+  references: 
+  - Section 17.4 - [MU]
+  - Sections 5.4, 5.5 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
