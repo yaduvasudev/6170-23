@@ -192,6 +192,15 @@
   - Sections 5.4, 5.5 - Course notes
   misc:
   
+- date: Thu 07/09
+  contents: Bounding the time for insertion in Cuckoo hashing; Properties of random graphs in analyzing the insertion time
+  slides: 
+  notes:
+  references: 
+  - Section 17.4 - [MU]
+  - Section 5.5 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
