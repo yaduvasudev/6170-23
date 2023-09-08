@@ -201,6 +201,15 @@
   - Section 5.5 - Course notes
   misc:
   
+- date: Fri 08/09
+  contents: Cuckoo hashing (contd.) - bounds on the size of the connected components and other properties
+  slides: 
+  notes:
+  references: 
+  - Section 17.4 - [MU]
+  - Section 5.5 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
