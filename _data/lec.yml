@@ -210,6 +210,15 @@
   - Section 5.5 - Course notes
   misc:
   
+- date: Mon 11/09
+  contents: Online algorithms - competitive ratio; deterministic paging algorithms - LRU, and lower bound
+  slides: 
+  notes:
+  references: 
+  - Section 13.1 - [MR]
+  - Section 6.2 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
