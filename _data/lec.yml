@@ -228,6 +228,15 @@
   - Section 6.2 - Course notes
   misc:
   
+- date: Thu 14/09
+  contents: Yao's minimax principle
+  slides: 
+  notes:
+  references: 
+  - Section 2.2 - [MR]
+  - Section 6.3 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
