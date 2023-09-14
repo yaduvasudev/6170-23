@@ -219,6 +219,15 @@
   - Section 6.2 - Course notes
   misc:
   
+- date: Wed 13/09
+  contents: Randomized paging against an oblivious adversary - Marker algorithm and analysis
+  slides: 
+  notes:
+  references: 
+  - Section 13.3 - [MR]
+  - Section 6.2 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
