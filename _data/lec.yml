@@ -237,6 +237,15 @@
   - Section 6.3 - Course notes
   misc:
   
+- date: Fri 15/09
+  contents: Lower bound for online paging using Yao's minimax principle; online bipartite matching
+  slides: 
+  notes:
+  references: 
+  - Section 13.3 - [MR]
+  - Section 6.3 - Course notes
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
