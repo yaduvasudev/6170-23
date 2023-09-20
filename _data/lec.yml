@@ -253,6 +253,14 @@
   notes:
   references: 
   misc:
+  
+- date: Mon 20/09
+  contents: Discussion of midsem; Online bipartite matching - LP formulation of maximum matching problem
+  slides: 
+  notes:
+  references: 
+  - Roughgarden's <a href="https://timroughgarden.org/w16/l/l8.pdf">lecture</a> <a href="http://timroughgarden.org/w16/l/l14.pdf">notes</a>
+  misc:
 
   
 # - date: Wed 04/08
