@@ -270,6 +270,13 @@
   - Roughgarden's <a href="https://timroughgarden.org/w16/l/l8.pdf">lecture</a> <a href="http://timroughgarden.org/w16/l/l14.pdf">notes</a>
   misc:
 
+- date: Fri 22/09
+  contents: Online fractional matching - primal-dual analysis of the waterlevel algorithm
+  slides: 
+  notes:
+  references: 
+  - Roughgarden's <a href="https://timroughgarden.org/w16/l/l8.pdf">lecture</a> <a href="http://timroughgarden.org/w16/l/l14.pdf">notes</a>
+  misc:
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
