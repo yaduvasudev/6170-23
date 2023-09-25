@@ -278,6 +278,15 @@
   - Roughgarden's <a href="https://timroughgarden.org/w16/l/l8.pdf">lecture</a> <a href="http://timroughgarden.org/w16/l/l14.pdf">notes</a>
   misc:
   
+- date: Mon 25/09
+  contents: Online matching - RANKING algorithm; primal-dual analysis
+  slides: 
+  notes:
+  references: 
+  - Section 6.4.3 - Course notes
+  - DJK <a href="https://epubs.siam.org/doi/10.1137/1.9781611973105.7">paper</a>
+  misc:
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
