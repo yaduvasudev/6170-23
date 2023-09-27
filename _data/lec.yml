@@ -286,6 +286,16 @@
   - Section 6.4.3 - Course notes
   - DJK <a href="https://epubs.siam.org/doi/10.1137/1.9781611973105.7">paper</a>
   misc:
+
+- date: Wed 27/09
+  contents: Online decisions with experts - the weighted majority algorithm
+  slides: 
+  notes:
+  references: 
+  - Section 6.5 - Course notes
+  - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
+  misc:
+
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
