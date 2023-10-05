@@ -296,6 +296,14 @@
   - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
   misc:
 
+- date: Wed 05/10
+  contents: The multiplicative weights update algorithm
+  slides: 
+  notes:
+  references: 
+  - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
+  misc:
+
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
