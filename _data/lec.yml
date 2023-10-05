@@ -303,6 +303,14 @@
   references: 
   - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
   misc:
+  
+- date: Thu 06/10
+  contents: Learning a linear classifier - Winnow algorithm; analysis using the MWU method; 2-SAT vs 3-SAT
+  slides: 
+  notes:
+  references: 
+  - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
+  misc:
 
   
 # - date: Wed 04/08
