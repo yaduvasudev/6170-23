@@ -296,7 +296,7 @@
   - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
   misc:
 
-- date: Wed 05/10
+- date: Wed 04/10
   contents: The multiplicative weights update algorithm
   slides: 
   notes:
@@ -304,7 +304,7 @@
   - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
   misc:
   
-- date: Thu 06/10
+- date: Thu 05/10
   contents: Learning a linear classifier - Winnow algorithm; analysis using the MWU method; 2-SAT vs 3-SAT
   slides: 
   notes:
@@ -312,6 +312,13 @@
   - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
   misc:
 
+- date: Thu 06/10
+  contents: Randomized 2-SAT; Markov chains - definitions and examples
+  slides: 
+  notes:
+  references: 
+  - Section 7.1 - [MU]
+  misc:
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
