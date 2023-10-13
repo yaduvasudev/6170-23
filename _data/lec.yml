@@ -312,12 +312,28 @@
   - AHK <a href="https://theoryofcomputing.org/articles/v008a006/v008a006.pdf">survey</a>
   misc:
 
-- date: Thu 06/10
+- date: Fri 06/10
   contents: Randomized 2-SAT; Markov chains - definitions and examples
   slides: 
   notes:
   references: 
   - Section 7.1 - [MU]
+  misc:
+  
+- date: Mon 09/10
+  contents: Randomized 3-SAT -Schoening's algorithm
+  slides: 
+  notes:
+  references: 
+  - Section 7.1 - [MU]
+  misc:
+  
+- date: Fri 13/10
+  contents: Stationary distributions and other properties of Markov chains; Random walks on graphs
+  slides: 
+  notes:
+  references: 
+  - Sections 7.3, 7.4 - [MU]
   misc:
   
 # - date: Wed 04/08
