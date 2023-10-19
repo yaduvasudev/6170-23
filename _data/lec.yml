@@ -337,7 +337,7 @@
   misc:
   
 - date: Mon 16/10
-  contents: FPRAS for #-DNF - Karp's algorithm
+  contents: FPRAS for $\#$-DNF - Karp's algorithm
   slides: 
   notes:
   references: 
@@ -345,7 +345,7 @@
   misc:
   
 - date: Wed 18/10
-  contents: From SAT to an FPRAS for \#-SAT
+  contents: From SAT to an FPRAS for $\#$-SAT
   slides: 
   notes:
   references: 
