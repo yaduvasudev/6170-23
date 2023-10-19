@@ -337,7 +337,7 @@
   misc:
   
 - date: Mon 16/10
-  contents: FPRAS for $\#$-DNF - Karp's algorithm
+  contents: "FPRAS for #-DNF - Karp's algorithm"
   slides: 
   notes:
   references: 
@@ -345,12 +345,21 @@
   misc:
   
 - date: Wed 18/10
-  contents: From SAT to an FPRAS for $\#$-SAT
+  contents: "From SAT to an FPRAS for #-SAT"
   slides: 
   notes:
   references: 
   - Section 2 of <a href="https://www.cs.umd.edu/~jkatz/complexity/f05/lecture9.pdf">this lecture note</a>
   misc:
+
+- date: Thu 19/10
+  contents: Sampling and counting - FPAUS \(\Rightarrow \) FPRAS for independent sets
+  slides: 
+  notes:
+  references: 
+  - Section 11.3 - [MU]
+  misc:
+
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
