@@ -367,6 +367,16 @@
   references: 
   - Section 11.3 - [MU]
   misc:
+  
+- date: Wed 25/10
+  contents: Monomer-dimer problem, and approximating the number of perfect matchings
+  slides: 
+  notes:
+  references: 
+  - Jerrum and Sinclair's <a href="https://people.eecs.berkeley.edu/~sinclair/perm.pdf">paper</a>
+  - Jerrum and Sinclair's <a href="https://people.eecs.berkeley.edu/~sinclair/mcmc.pdf">book chapter</a>
+  - Section 11.4 - [MU]
+  misc:
 
   
 # - date: Wed 04/08
