@@ -396,6 +396,13 @@
   - Sections 12.1, 12.2 - [MU]
   misc:
 
+- date: Mon 30/10
+  contents: Coupling lemma - bounding the mixing time of Markov chains
+  slides: 
+  notes:
+  references: 
+  - Section 12.2 - [MU]
+  misc:
   
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
