@@ -404,6 +404,23 @@
   - Section 12.2 - [MU]
   misc:
   
+- date: Wed 1/11
+  contents: Canonical paths - Markov chain on the boolean hypercube and its analysis
+  slides: 
+  notes:
+  references: 
+  - Jerrum and Sinclair's <a href="https://people.eecs.berkeley.edu/~sinclair/mcmc.pdf">book chapter</a>
+  misc:
+
+- date: Thu 2/11
+  contents: Canonical paths - Mixing time of Markov chains on matchings
+  slides: 
+  notes:
+  references: 
+  - Jerrum and Sinclair's <a href="https://people.eecs.berkeley.edu/~sinclair/mcmc.pdf">book chapter</a>
+  misc:
+
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
